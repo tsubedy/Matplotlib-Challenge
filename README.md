@@ -10,7 +10,3 @@ A total tumor volume for each type was compiled at the highest level of timepoin
 
 Pearson's correlation between the average tumor volume and the weight of mouse was found to be 0.84, which is a strong positive correlation. The regression analysis was performed and found that 70% of the model fits the data which resembles that the model is fairly strong to predict the effect of Drug Regimens on the gain of weights.
 
-<<<<<<< HEAD
-
-=======
->>>>>>> a915da3c42f80cbf904cfc8c959ac1e9dbe5866b
